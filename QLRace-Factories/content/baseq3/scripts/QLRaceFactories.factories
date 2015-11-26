@@ -27,8 +27,7 @@
         "pmove_noPlayerClip": "1",
         "pmove_RampJump": "1",
         "pmove_WeaponDropTime": "10",
-        "pmove_WeaponRaiseTime": "10",
-        "timelimit": "15"
+        "pmove_WeaponRaiseTime": "10"
     }
 }, {
     "basegt": "race",
@@ -52,8 +51,7 @@
         "pmove_noPlayerClip": "1",
         "pmove_RampJump": "1",
         "pmove_WeaponDropTime": "10",
-        "pmove_WeaponRaiseTime": "10",
-        "timelimit": "15"
+        "pmove_WeaponRaiseTime": "10"
     }
 }, {
     "basegt": "race",
@@ -71,8 +69,7 @@
         "g_respawn_delay_min": "10",
         "g_startingHealthBonus": "0",
         "g_startingWeapons": "147",
-        "pmove_noPlayerClip": "1",
-        "timelimit": "15"
+        "pmove_noPlayerClip": "1"
     }
 }, {
     "basegt": "race",
@@ -90,7 +87,6 @@
         "g_respawn_delay_min": "10",
         "g_startingHealthBonus": "0",
         "g_startingWeapons": "3",
-        "pmove_noPlayerClip": "1",
-        "timelimit": "15"
+        "pmove_noPlayerClip": "1"
     }
 }]
