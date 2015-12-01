@@ -23,6 +23,7 @@
         "g_startingWeapons": "147",
         "g_velocity_gl": "800",
         "pmove_AirControl": "1",
+        "pmove_bunnyhop": "0",
         "pmove_JumpTimeDeltaMin": "50",
         "pmove_noPlayerClip": "1",
         "pmove_RampJump": "1",
@@ -47,6 +48,7 @@
         "g_startingHealthBonus": "0",
         "g_startingWeapons": "3",
         "pmove_AirControl": "1",
+        "pmove_bunnyhop": "0",
         "pmove_JumpTimeDeltaMin": "50",
         "pmove_noPlayerClip": "1",
         "pmove_RampJump": "1",
@@ -69,6 +71,7 @@
         "g_respawn_delay_min": "10",
         "g_startingHealthBonus": "0",
         "g_startingWeapons": "147",
+        "pmove_bunnyhop": "0",
         "pmove_noPlayerClip": "1"
     }
 }, {
@@ -87,6 +90,7 @@
         "g_respawn_delay_min": "10",
         "g_startingHealthBonus": "0",
         "g_startingWeapons": "3",
-        "pmove_noPlayerClip": "1"
+        "pmove_noPlayerClip": "1",
+        "pmove_bunnyhop": "0"
     }
 }]
