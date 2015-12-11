@@ -6,5 +6,5 @@
 	"visibility"		"0"
 	"title"		"QLRace.com Factories"
 	"description"		"Race Factories for QLRace.com Servers"
-	"changenote"		"pmove_bunnyHop 0"
+	"changenote"		"g_infiniteAmmo 0 for strafe"
 }
