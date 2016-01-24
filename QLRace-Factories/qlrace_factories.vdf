@@ -1,10 +1,19 @@
 "workshopitem"
 {
-	"appid"		"282440"
-	"publishedfileid"		"543328061"
-	"contentfolder"		"/home/chris/Code/QL-Workshop/QLRace-Factories/content/"
-	"visibility"		"0"
-	"title"		"QLRace.com Factories"
-	"description"		"Race Factories for QLRace.com Servers"
-	"changenote"		"g_infiniteAmmo 0 for strafe"
+    "appid" "282440"
+    "publishedfileid" "543328061"
+    "contentfolder" "/home/chris/Code/QL-Workshop/QLRace-Factories/content/"
+    "visibility" "0"
+    "title"	"QLRace.com Factories"
+    "description" "Race factories for QLRace.com servers, includes turbo(PQL) and classic(VQL) modes.
+I have added a MG to all factories so you can use it to open doors. All factories have low respawn delay(10 ms)
+
+qlrace_turbo: Turbo physics with RL, PG and MG.
+qlrace_turbo_strafe: Turbo physics with MG only and finite ammo.
+
+qlrace_classic: Classic physcis with RL, PG and MG.
+qlrace_classic_strafe: Classic physics with MG only and finite ammo.
+
+GitHub link: https://github.com/cstewart90/QL-Workshop/blob/master/QLRace-Factories/content/baseq3/scripts/QLRaceFactories.factories"
+    "changenote" "g_dropPowerups 0"
 }
