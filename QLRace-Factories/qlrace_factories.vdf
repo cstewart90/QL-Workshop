@@ -15,5 +15,5 @@ qlrace_classic: Classic physcis with RL, PG and MG.
 qlrace_classic_strafe: Classic physics with MG only and finite ammo.
 
 GitHub link: https://github.com/cstewart90/QL-Workshop/blob/master/QLRace-Factories/content/baseq3/scripts/QLRaceFactories.factories"
-    "changenote" "g_dropPowerups 0"
+    "changenote" "Fixed some pmove settings for classic factories."
 }
