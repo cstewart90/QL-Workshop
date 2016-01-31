@@ -1,9 +1,9 @@
 [{
-    "basegt": "race",
     "id": "qlrace_turbo",
     "title": "Race Turbo",
     "description": "Race with Turbo Settings",
     "author": "kanzo",
+    "basegt": "race",
     "cvars": {
         "dmflags": "28",
         "fraglimit": "0",
@@ -34,11 +34,11 @@
         "practiceFlags": "1"
     }
 }, {
-    "basegt": "race",
     "id": "qlrace_turbo_strafe",
     "title": "Race Turbo Strafe",
     "description": "Race with Turbo Settings(Strafe)",
     "author": "kanzo",
+    "basegt": "race",
     "cvars": {
         "dmflags": "28",
         "fraglimit": "0",
@@ -63,11 +63,11 @@
         "practiceFlags": "1"
     }
 }, {
-    "basegt": "race",
     "id": "qlrace_classic",
     "title": "Race Classic",
     "description": "Race with Classic Settings",
     "author": "kanzo",
+    "basegt": "race",
     "cvars": {
         "dmflags": "28",
         "fraglimit": "0",
@@ -84,17 +84,17 @@
         "pmove_BunnyHop": "0",
         "pmove_CrouchStepJump": "0",
         "pmove_JumpTimeDeltaMin": "50",
+        "pmove_noPlayerClip": "1",
         "pmove_WaterSwimScale": "0.5f",
         "pmove_WaterWadeScale": "0.75f",
-        "pmove_noPlayerClip": "1",
         "practiceFlags": "1"
     }
 }, {
-    "basegt": "race",
     "id": "qlrace_classic_strafe",
     "title": "Race Classic Strafe",
     "description": "Race with Classic Settings(Strafe)",
     "author": "kanzo",
+    "basegt": "race",
     "cvars": {
         "dmflags": "28",
         "fraglimit": "0",
@@ -111,9 +111,9 @@
         "pmove_BunnyHop": "0",
         "pmove_CrouchStepJump": "0",
         "pmove_JumpTimeDeltaMin": "50",
+        "pmove_noPlayerClip": "1",
         "pmove_WaterSwimScale": "0.5f",
         "pmove_WaterWadeScale": "0.75f",
-        "pmove_noPlayerClip": "1",
         "practiceFlags": "1"
     }
 }]
