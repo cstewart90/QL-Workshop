@@ -8,12 +8,12 @@
     "description" "Race factories for QLRace.com servers, includes turbo(PQL) and classic(VQL) modes.
 I have added a MG to all factories so you can use it to open doors. All factories have low respawn delay(10 ms)
 
-qlrace_turbo: Turbo physics with RL, PG and MG.
-qlrace_turbo_strafe: Turbo physics with MG only and finite ammo.
+qlrace_turbo: Turbo settings with RL, PG and MG.
+qlrace_turbo_strafe: Turbo settings with MG only and finite ammo.
 
-qlrace_classic: Classic physcis with RL, PG and MG.
-qlrace_classic_strafe: Classic physics with MG only and finite ammo.
+qlrace_classic: Classic settings with RL, PG and MG.
+qlrace_classic_strafe: Classic settings with MG only and finite ammo.
 
 GitHub link: https://github.com/cstewart90/QL-Workshop/blob/master/QLRace-Factories/content/baseq3/scripts/QLRaceFactories.factories"
-    "changenote" "Fixed some pmove settings for classic factories."
+    "changenote" "Changed description of factories."
 }

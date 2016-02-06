@@ -1,7 +1,7 @@
 [{
     "id": "qlrace_turbo",
-    "title": "Race Turbo",
-    "description": "Race with Turbo Settings",
+    "title": "Turbo Race",
+    "description": "Turbo race",
     "author": "kanzo",
     "basegt": "race",
     "cvars": {
@@ -35,8 +35,8 @@
     }
 }, {
     "id": "qlrace_turbo_strafe",
-    "title": "Race Turbo Strafe",
-    "description": "Race with Turbo Settings(Strafe)",
+    "title": "Turbo Race(strafe)",
+    "description": "Turbo Race(strafe)",
     "author": "kanzo",
     "basegt": "race",
     "cvars": {
@@ -64,8 +64,8 @@
     }
 }, {
     "id": "qlrace_classic",
-    "title": "Race Classic",
-    "description": "Race with Classic Settings",
+    "title": "Classic Race",
+    "description": "Classic Race",
     "author": "kanzo",
     "basegt": "race",
     "cvars": {
@@ -91,8 +91,8 @@
     }
 }, {
     "id": "qlrace_classic_strafe",
-    "title": "Race Classic Strafe",
-    "description": "Race with Classic Settings(Strafe)",
+    "title": "Classic Race(strafe)",
+    "description": "Classic Race(strafe)",
     "author": "kanzo",
     "basegt": "race",
     "cvars": {
