@@ -1,0 +1,13 @@
+"workshopitem"
+{
+    "appid" "282440"
+    "contentfolder" "/home/chris/Code/QL-Workshop/FT-Factories/content/"
+    "visibility" "0"
+    "title" "Some FT Factories"
+    "description" "A couple of FT factories.
+
+ft_classic: Classic FT
+ft_uft: eBattlegrounds FT League settings(modified UFT)"
+    "changenote" "Initial release"
+    "publishedfileid" "636719809"
+}
