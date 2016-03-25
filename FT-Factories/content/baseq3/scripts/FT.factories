@@ -1,8 +1,8 @@
 [{
-    "basegt": "ft",
     "id": "ft_classic",
     "title": "Classic FT",
     "description": "Classic Freeze Tag",
+    "basegt": "ft",
     "author": "Melodeiro",
     "cvars": {
         "disable_ammo_bfg": "1",
@@ -28,10 +28,10 @@
         "timelimit": "20"
     }
 }, {
-    "basegt": "ft",
     "id": "ft_kozo_cup",
     "title": "kozo's FT Cup",
     "description": "No thaw winners, no round delay, friendly fire, no HMG",
+    "basegt": "ft",
     "author": "kozo",
     "cvars": {
         "disable_ammo_hmg": "1",
@@ -62,10 +62,10 @@
         "timelimit": "20"
     }
 }, {
-    "basegt": "ft",
     "id": "ft_uft",
     "title": "UFT(modified)",
     "description": "Modified UFT",
+    "basegt": "ft",
     "author": "lint",
     "cvars": {
         "disable_ammo_bfg": "1",
