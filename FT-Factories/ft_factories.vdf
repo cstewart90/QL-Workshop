@@ -4,10 +4,11 @@
     "contentfolder" "/home/chris/Code/QL-Workshop/FT-Factories/content/"
     "visibility" "0"
     "title" "Some FT Factories"
-    "description" "A couple of FT factories.
+    "description" "Some freeze tag factories.
 
 ft_classic: Classic FT
+ft_kozo_cup: Settings for this cup http://qlchill.proboards.com/thread/343/2016-ft-cup
 ft_uft: eBattlegrounds FT League settings(modified UFT)"
-    "changenote" "Initial release"
+    "changenote" "Added kozo's FT cup settings."
     "publishedfileid" "636719809"
 }
