@@ -14,6 +14,6 @@ qlrace_turbo_strafe: Turbo settings with MG only and finite ammo.
 qlrace_classic: Classic settings with RL, PG and MG.
 qlrace_classic_strafe: Classic settings with MG only and finite ammo.
 
-GitHub link: https://github.com/cstewart90/QL-Workshop/blob/master/QLRace-Factories/content/baseq3/scripts/QLRaceFactories.factories"
+GitHub: https://github.com/cstewart90/QL-Workshop/blob/master/QLRace-Factories/content/baseq3/scripts/QLRaceFactories.factories"
     "changenote" "Changed description of factories."
 }

@@ -8,7 +8,9 @@
 
 ft_classic: Classic FT
 ft_kozo_cup: Settings for this cup http://qlchill.proboards.com/thread/343/2016-ft-cup
-ft_uft: eBattlegrounds FT League settings(modified UFT)"
+ft_uft: eBattlegrounds FT League settings(modified UFT)
+
+GitHub: https://github.com/cstewart90/QL-Workshop/blob/master/FT-Factories/content/baseq3/scripts/FT.factories"
     "changenote" "Added kozo's FT cup settings."
     "publishedfileid" "636719809"
 }
