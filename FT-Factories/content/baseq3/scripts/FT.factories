@@ -30,7 +30,7 @@
     }
 }, {
     "id": "ftclassic",
-    "title": "Modified Classic FT",
+    "title": "Classic FT no thaw winners",
     "description": "No thaw winners, no round delay, no HMG/BFG",
     "author": "kanzo",
     "basegt": "ft",
