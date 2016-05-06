@@ -6,7 +6,8 @@
     "title" "Some FT Factories"
     "description" "Some freeze tag factories.
 
-ft_classic: Classic FT
+ft_classic: Classic FT with no HMG/BFG
+ftclassic: Classic FT with no thaw winners, no round delay and no HMG/BFG. Id is ftclassic so it rated on QLStats.
 ft_kozo_cup: Settings for this cup http://qlchill.proboards.com/thread/343/2016-ft-cup
 ft_uft: eBattlegrounds FT League settings(modified UFT)
 

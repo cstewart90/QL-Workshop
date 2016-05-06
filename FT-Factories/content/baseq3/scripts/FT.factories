@@ -28,8 +28,7 @@
         "roundlimit": "10",
         "timelimit": "20"
     }
-},
-{
+}, {
     "id": "ftclassic",
     "title": "Modified Classic FT",
     "description": "No thaw winners, no round delay, no HMG/BFG",
@@ -62,8 +61,7 @@
         "roundlimit": "10",
         "timelimit": "20"
     }
-},
-{
+}, {
     "id": "ft_kozo_cup",
     "title": "kozo's FT Cup",
     "description": "No thaw winners, no round delay, friendly fire, no HMG",
