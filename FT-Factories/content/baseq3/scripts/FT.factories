@@ -46,7 +46,6 @@
         "g_freezeResetHealthOnRound": "0",
         "g_freezeResetWeaponsOnRound": "0",
         "g_freezeRoundDelay": "0",
-        "g_freezeThawThroughSurface": "1",
         "g_freezeThawWinningTeam": "0",
         "g_itemHeight": "15",
         "g_itemTimers": "0",
